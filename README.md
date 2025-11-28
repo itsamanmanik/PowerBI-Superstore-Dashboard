@@ -82,4 +82,4 @@ The project uses the publicly available **Superstore Sales** dataset, widely use
 
 ## 🖼 Dashboard Preview
 
-(<dashboard 1.png>)
+![Dashboard Preview](images/dashboard_1.png)
